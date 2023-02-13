@@ -12,6 +12,7 @@ private:
   Rad radRechts;
   Rad radLinks;
   int k;
+  int variablePrueba;
 public:
   Auto();
   void moveForward(int, int);
